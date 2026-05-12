@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Weather",
+  "description": "Modern weather forecasting application with glassmorphism UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
